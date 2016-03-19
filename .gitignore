@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.Python
+*.py[cod]
+bin/
+include/
+lib/
+.DS_STORE
